@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'resque'
+gem 'pry'
+gem 'rack'
+gem 'resque-retry'
+gem 'rake'
